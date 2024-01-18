@@ -25,7 +25,25 @@ Their expertise in embedded programming was crucial to our success.
 - **Key Skills:** Hardware kit testing, state machine design.
 - [Video Demonstration](https://drive.google.com/file/d/1SLXGfA2i2reTbFe_mGmhjaPGc1xRLx0o/view?usp=sharing)
 
-### [Continue with the remaining Driver Projects in a similar format]
+### Driver Project 3: 16-bit Timers and Interrupts
+- **Objective:** Develop a state machine for LED control using timer interrupts.
+- **Key Skills:** ANSI C programming, real-time control.
+- [Video Demonstration](https://drive.google.com/file/d/1KaiC2e0hvMoeJDCnooeXuJ2y3wtyuzOO/view?usp=sharing)
+
+### Driver Project 4: IO Interrupts, Timers, and UART Display Drivers
+- **Objective:** Implement a controller for LED operation through various states.
+- **Key Skills:** Interrupt-driven programming, real-time system interactions.
+- [Video Demonstration](https://drive.google.com/file/d/1hxE4yF6-sPWKz_S5W8riRvFFxml-jMUE/view?usp=sharing)
+
+### Driver Project 5: Analog to Digital Conversion
+- **Objective:** Design a function for Microcontroller’s ADC interacting with a potentiometer.
+- **Key Skills:** ADCs, visual data representation, UI design.
+- [Video Demonstration](https://drive.google.com/file/d/1KDmr1VwRCYoJed2s6JU3Kuq8sPFCHHsR/view?usp=sharing)
+
+### Driver Project 6: ADC Data Capture with Python
+- **Objective:** Capture and plot data from Microcontroller’s ADC using Python.
+- **Key Skills:** Hardware interaction, Python data handling.
+- [Video Demonstration](https://drive.google.com/file/d/1R8-l37dJi5OboobyeMWLst_3FECOLZee/view?usp=sharing)
 
 ## App Projects
 
@@ -38,8 +56,6 @@ Their expertise in embedded programming was crucial to our success.
 - **Objective:** Develop an application to control LED brightness using microcontroller and driver functions.
 - **Key Skills:** PWM implementation, data visualization with Python.
 - *Note: In-person demonstration only.*
-
-### [Add any additional App Projects in a similar format]
 
 ---
 
